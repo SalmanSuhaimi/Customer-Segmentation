@@ -62,3 +62,6 @@ The picture shows the accuracy is 89.83% and loss is 0.2408
 9. Model Saving:
 
   - The trained model is saved in the 'models' folder.
+
+## Data Source:
+https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon
